@@ -1,0 +1,18 @@
+This app has been made as an assignment to get to know titanium.
+
+
+INFO
+====
+Android users will be able to search and read articles on wikipedia.
+
+Iphone users will be able to search and read articles on wikipedia,
+       and post the link of the article on twitter. 
+       they will also be able to read the tweets of the maker.
+
+
+BUGS
+====
+There are still some problems the first time you login on twitter. (the app will freeze)
+If you close the app, and launch it again, it will work correctly.
+
+
